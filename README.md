@@ -15,6 +15,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/azevedo94/)
+* [Blog Medium](https://bit.ly/33QJREb)
 
 
 
