@@ -22,8 +22,9 @@
 ## Projetos:
 
 * **Data Science: Aplicando comandos básicos de Data Analysis no dataset Titanic:** https://bit.ly/32lcbxy
+* **Classification: Projeto sobre detecção de fraude de cartão de crédito:** https://bit.ly/3mjddm9
 * **Aceleração Codenation: Projetos realizados durante a aceleração promovida pela Codenation:** https://bit.ly/3iVk8QZ
-* **Data Bootcamp IGTI: Projetos realizados durante no Bootcamp IGTI:** https://bit.ly/2RPPDA7
+
 
 
 ---
