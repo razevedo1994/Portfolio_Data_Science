@@ -12,6 +12,9 @@
 * [LinkedIn](https://www.linkedin.com/in/azevedo94/)
 * [Blog Medium](https://bit.ly/33QJREb)
 
+**Contato:**
+* [E-mail]razevedo.contato:gmail.com
+
 ## Bootcamp:
 
 * **Aceleração Codenation: Projetos realizados durante a aceleração promovida pela Codenation:** https://bit.ly/3iVk8QZ
