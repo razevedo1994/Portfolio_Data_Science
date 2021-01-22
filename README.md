@@ -4,23 +4,25 @@
   <img src="banner2.jpg" >
 </p>
 
+
 # Rodrigo Azevedo
 <sub>Assistente Pleno I no Grupo Trigo</sub>
 
 
-**Links:**
+**Contato:**
+* [E-mail] razevedo.contato:gmail.com
 * [LinkedIn](https://www.linkedin.com/in/azevedo94/)
+
+
+**Links:**
 * [Blog Medium](https://bit.ly/33QJREb)
 
-**Contato:**
-* [E-mail]razevedo.contato:gmail.com
 
 ## Bootcamp:
-
 * **Aceleração Codenation: Projetos realizados durante a aceleração promovida pela Codenation:** https://bit.ly/3iVk8QZ
 
-## Projetos:
 
+## Projetos:
 * **EDA(Exploratory data analysis): Aplicando comandos básicos de Data Analysis no dataset Titanic:** https://bit.ly/32lcbxy
 * **EDA(Exploratory data analysis): Data Analysis aplicada ao conjunto de dados de pesquisa Stack Overflox:** https://bit.ly/2MbhjQr
 * **Classification: Projeto sobre detecção de fraude de cartão de crédito:** https://bit.ly/3mjddm9
