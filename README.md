@@ -24,7 +24,7 @@
 
 ## Projetos:
 * **EDA(Exploratory data analysis): Aplicando comandos básicos de Data Analysis no dataset Titanic:** https://bit.ly/32lcbxy
-* **EDA(Exploratory data analysis): Data Analysis aplicada ao conjunto de dados de pesquisa Stack Overflox:** https://bit.ly/2MbhjQr
+* **EDA(Exploratory data analysis): Data Analysis aplicada ao conjunto de dados de pesquisa Stack Overflow:** https://bit.ly/2MbhjQr
 * **Classification: Projeto sobre detecção de fraude de cartão de crédito:** https://bit.ly/3mjddm9
 
 
