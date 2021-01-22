@@ -8,11 +8,6 @@
 <sub>Assistente Pleno I no Grupo Trigo</sub>
 
 
-
-**Background in:** Python, Machine Learning.
-
-
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/azevedo94/)
 * [Blog Medium](https://bit.ly/33QJREb)
@@ -26,7 +21,6 @@
 * **EDA(Exploratory data analysis): Aplicando comandos básicos de Data Analysis no dataset Titanic:** https://bit.ly/32lcbxy
 * **EDA(Exploratory data analysis): Data Analysis aplicada ao conjunto de dados de pesquisa Stack Overflox:** https://bit.ly/2MbhjQr
 * **Classification: Projeto sobre detecção de fraude de cartão de crédito:** https://bit.ly/3mjddm9
-
 
 
 
