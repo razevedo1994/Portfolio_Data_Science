@@ -18,8 +18,6 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 1. How other developers suggested breaking into the field (what education to pursue)?
 2. How is the level of satisfaction with the work?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
-
 
 ## File Descriptions <a name="files"></a>
 
