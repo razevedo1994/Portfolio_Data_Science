@@ -25,4 +25,4 @@ There are 1 notebook available here to showcase work related to the above questi
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to AirBnB for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to AirBnB for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](http://insideairbnb.com/get-the-data.html).  Otherwise, feel free to use the code here as you would like! 
