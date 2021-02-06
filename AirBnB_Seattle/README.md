@@ -3,7 +3,8 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -22,6 +23,9 @@ For this project, I was interestested in using publicly accessible AirBnB data, 
 
 There are 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](https://rodrigo-azevedo.medium.com/how-you-can-make-better-reservations-in-seattle-using-airbnb-data-ac263914c9ae).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
