@@ -10,7 +10,7 @@
 
 
 **Contato:**
-* [E-mail] razevedo.contato@gmail.com
+* [E-mail](razevedo.contato@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/azevedo94/)
 
 
@@ -19,13 +19,13 @@
 
 
 ## Bootcamp:
-* **Aceleração Codenation: Projetos realizados durante a aceleração promovida pela Codenation:** https://bit.ly/3iVk8QZ
+* **Aceleração Codenation: Projects realized during the acceleration promoted by Codenation:** https://bit.ly/3iVk8QZ
 
 
 ## Projetos:
-* **EDA(Exploratory data analysis): Aplicando comandos básicos de Data Analysis no dataset Titanic:** https://bit.ly/32lcbxy
-* **EDA(Exploratory data analysis): Data Analysis aplicada ao conjunto de dados de pesquisa Stack Overflow:** https://bit.ly/2MbhjQr
-* **EDA(Exploratory data analysis) and Machine Learning(XGBoost): Data Analysis aplicada ao conjunto de dados de AirBnB Seattle:** https://bit.ly/3cA3xlr
+* **EDA(Exploratory data analysis): Applying basic Data Analysis commands to the Titanic dataset:** https://bit.ly/32lcbxy
+* **EDA(Exploratory data analysis): Data Analysis applied to Stack Overflow research dataset:** https://bit.ly/2MbhjQr
+* **EDA(Exploratory data analysis) and Machine Learning(XGBoost): Data Analysis applied to the AirBnB Seattle dataset:** https://bit.ly/3cA3xlr
 
 
 ---
